@@ -1,4 +1,3 @@
-# Residential_Electricity_Data_Pipeline_EIA
 
 # ⚡ Residential Electricity Consumption Analysis (EIA API)
 
